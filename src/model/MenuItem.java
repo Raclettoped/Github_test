@@ -1,5 +1,7 @@
 package model;
 
+import java.util.ArrayList;
+
 public class MenuItem
 {
     private String Name;
@@ -50,4 +52,8 @@ public class MenuItem
                 Name + " - " + Preis +
                         " EURO";
         }
+
+
+
 }
+
